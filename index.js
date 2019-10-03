@@ -15,3 +15,5 @@ const fareTripler = (fare) => createFareMultiplier(3)(fare)
 function selectDifferentDrivers(driversArray, selectFunction) {
     return selectFunction(driversArray)
 }
+
+//this was fun
